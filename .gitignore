@@ -1,0 +1,12 @@
+*.pyc
+*.pyo
+.DS_Store
+.idea
+coverage
+build
+dist
+.coverage
+*.html
+env
+django_wechat.egg-info
+*.rdb
